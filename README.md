@@ -11,7 +11,7 @@ A small, hand-written portfolio that looks clean and is easy to extend. No build
 ## Customize
 - `index.html`: Search for **TODO** and update your name, email, links.
 - `assets/img/profile.svg`: swap with your photo (keep the same filename or update the `<img>` src).
-- `assets/RehanKhan-Resume.pdf`: replace with your resume (or remove the button).
+- `assets/Saniya-Resume.pdf`: replace with your resume (or remove the button).
 - Project cards: update titles, descriptions, and the `Live/Code` links.
 
 ## Contact form
